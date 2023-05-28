@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "612d35c5915b5398",
+        "id": "3ab9819119796e5d",
         "type": "tabs",
         "children": [
           {
-            "id": "d3577ba51247112b",
+            "id": "ecddc2855a761575",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "common/cookies.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "common/cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "common/cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "common/cookies.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3577ba51247112b",
-  "lastOpenFiles": []
+  "active": "ecddc2855a761575",
+  "lastOpenFiles": [
+    "common/cors.md",
+    "notes/common/JWT.md",
+    "notes/common/cors.md",
+    "notes/common/cookies.md",
+    "notes/asp/core/middleware.canvas",
+    "notes/common/basic_authentication.md",
+    "notes/common/authentication.md",
+    "notes/common/assets/Pasted image 20230528134902.png",
+    "notes/common/assets/Pasted image 20230528134659.png",
+    "notes/common/assets/Pasted image 20230528134931.png",
+    "notes/common/assets/auth_1.png",
+    "Basic authentication.md",
+    "notes/common/assets",
+    "notes/common",
+    "notes/asp/core",
+    "notes/aws/aws_solution_arch/aws-notes.md",
+    "notes/asp",
+    "notes/aws/common/aws_cli.md",
+    "ec2.md",
+    "notes/main.md",
+    "notes/aws/aws_prcaticioner/aws-intro.md",
+    "notes/aws/aws_solution_arch",
+    "notes/aws/common",
+    "notes/aws/aws_prcaticioner",
+    "notes/aws",
+    "notes/general_backend"
+  ]
 }

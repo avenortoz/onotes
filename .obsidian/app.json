@@ -1,1 +1,8 @@
-{}
+{
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "vimMode": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "notes/common/assets",
+  "alwaysUpdateLinks": true
+}
