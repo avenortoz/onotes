@@ -148,6 +148,8 @@
   },
   "active": "ecddc2855a761575",
   "lastOpenFiles": [
+    "common/rate_limiter_design.md",
+    "common/cookies.md",
     "common/cors.md",
     "notes/common/JWT.md",
     "notes/common/cors.md",
