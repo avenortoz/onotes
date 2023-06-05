@@ -3,6 +3,6 @@
   "livePreview": false,
   "vimMode": true,
   "promptDelete": false,
-  "attachmentFolderPath": "notes/common/assets",
+  "attachmentFolderPath": "system_design/assets",
   "alwaysUpdateLinks": true
 }
