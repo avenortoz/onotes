@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"2f8356b7b92a5174","x":-200,"y":-360,"width":400,"height":400,"type":"group","label":"Middleware pipline"},
+		{"type":"group","id":"2f8356b7b92a5174","x":-200,"y":-360,"width":400,"height":400,"label":"Middleware pipeline"},
 		{"type":"text","text":"## Middleware 2","id":"f4facb616e6a2d17","x":-125,"y":-200,"width":250,"height":60},
 		{"type":"text","text":"## Middleware 1","id":"fbf1853afa9c66de","x":-125,"y":-320,"width":250,"height":60},
 		{"type":"text","text":"## Middleware 3","id":"99cb5b9208e4b2af","x":-125,"y":-80,"width":250,"height":60}

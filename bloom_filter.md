@@ -15,7 +15,7 @@ A Bloom filter works as follows:
 Bloom filters are commonly used in applications where approximate membership tests are sufficient, such as [[cach]]ing, spell checkers, network routers, and distributed systems. They offer advantages in terms of memory efficiency and speed at the cost of a controlled probability of false positives. By adjusting the size of the bit array and the number of [[hash _function]]s, the trade-off between false positives and memory usage can be managed.
 
 ## Implementation in rust
-```
+```rust
 use std::collections::HashSet;
 use std::hash::{Hash, Hasher};
 
