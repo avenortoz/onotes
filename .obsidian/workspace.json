@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "longest_increasing_subsequence.md",
+                "file": "asp/core/microservice_architecture.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cd931adf5026c63d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "longest_increasing_subsequence.md",
+                "file": "asp/core/microservice_architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "longest_increasing_subsequence.md",
+                "file": "asp/core/microservice_architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +126,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "longest_increasing_subsequence.md"
+                "file": "asp/core/microservice_architecture.md"
               }
+            }
+          },
+          {
+            "id": "1398f58a33904488",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,23 +156,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3863fc40838a5fc8",
+  "active": "6f51fab66c5b0c2b",
   "lastOpenFiles": [
+    "asp/core/microservice.md",
+    "asp/core/microservice_architecture.md",
+    "common/cookies.md",
+    "common/redis.md",
+    "other/mapz_patterns_notes/behaviour.md",
+    "other/mapz_patterns_notes/structural.md",
+    "other/mapz_patterns_notes/antipatterns.md",
+    "asp/core/dotnet_aspnet_jwt_auth.md",
+    "other/mapz_patterns_notes/cr/abstract_factory.png",
+    "other/mapz_patterns_notes/cr",
+    "other/mapz_patterns_notes/bh/visitor.png",
+    "other/mapz_patterns_notes/bh/template_method.png",
+    "other/mapz_patterns_notes/bh/strategy.png",
+    "other/mapz_patterns_notes/bh/state.png",
+    "other/mapz_patterns_notes/bh/observer.png",
+    "other/mapz_patterns_notes/bh/mediator.png",
+    "other/mapz_patterns_notes/bh/iterator.png",
+    "other/mapz_patterns_notes/bh/command.png",
+    "other/mapz_patterns_notes/bh/chain_of_responsibility.png",
+    "other/mapz_patterns_notes/bh",
+    "other/mapz_patterns_notes/st",
+    "other/mapz_patterns_notes/creational.md",
+    "other/mapz_patterns_notes/ci_cd.md",
+    "other/mapz_patterns_notes",
+    "other",
     "longest_increasing_subsequence.md",
     "bloom_filter.md",
     "common/mongodb.md",
-    "asp/core/dotnet_aspnet_jwt_auth.md",
     "dev_links.md",
     "common/authentication.md",
     "asp/core/middleware.canvas",
     "common/basic_authentication.md",
-    "common/cookies.md",
     "common/cors.md",
     "common/JWT.md",
     "common/jwt_logout.md",
-    "common/redis.md",
-    "asp/core/microservice.md",
-    "asp/core/microservice_architecture.md",
     "common/rate_limiter_design.md",
     "notes/common/JWT.md",
     "notes/common/cors.md",
@@ -170,24 +200,11 @@
     "notes/asp/core/middleware.canvas",
     "notes/common/basic_authentication.md",
     "notes/common/authentication.md",
-    "notes/common/assets/Pasted image 20230528134902.png",
-    "notes/common/assets/Pasted image 20230528134659.png",
-    "notes/common/assets/Pasted image 20230528134931.png",
-    "notes/common/assets/auth_1.png",
     "Basic authentication.md",
     "notes/common/assets",
     "notes/common",
     "notes/asp/core",
-    "notes/aws/aws_solution_arch/aws-notes.md",
     "notes/asp",
-    "notes/aws/common/aws_cli.md",
-    "ec2.md",
-    "notes/main.md",
-    "notes/aws/aws_prcaticioner/aws-intro.md",
-    "notes/aws/aws_solution_arch",
-    "notes/aws/common",
-    "notes/aws/aws_prcaticioner",
-    "notes/aws",
-    "notes/general_backend"
+    "notes/aws/aws_solution_arch"
   ]
 }

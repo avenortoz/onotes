@@ -6,7 +6,9 @@ To enable [[JWT]] authentication we need:
 5. After that can be added other middlewares which need authorization
 
 ## Snippets:
+
 ### How to add [[JWT]] authorization with authentication to the asp.net project
+
 ```csharp
 builder.Services.AddAuthorization();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
@@ -24,8 +26,10 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         };
     });
 ```
+
 ### How to generate [[JWT]] token
-```
+
+```csharp
     var claims = new List<Claim> { new Claim("the_secret_name", username) };
     // создаем JWT-токен
     var jwt = new JwtSecurityToken(
@@ -37,9 +41,11 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 
     return new JwtSecurityTokenHandler().WriteToken(jwt);
 ```
+
 ### How to read [[JWT]] token
-- Using directly HTTPContext
-```
+
+- Using directly `HTTPContext`
+```csharp
     string? token = httpContext.Request.Headers["Authorization"].FirstOrDefault()?.Split(" ").Last();
     var tokenHandler = new JwtSecurityTokenHandler();
     tokenHandler.ValidateToken(token, new TokenValidationParameters
@@ -53,8 +59,9 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     var jwtToken = (JwtSecurityToken) validatedToken;
     var secretName = jwtToken.Claims.First(x => x.Type == "the_secret_name").Value; 
 ```
+
 - Using `ClaimsPrincipal`
-```
+```csharp
 var secretName = httpContext.User.FindFirst("the_secret_name")?.Value;
 logger.LogInformation(secretName);
 return new { message = "Hello World!" };
