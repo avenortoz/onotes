@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asp/core/microservice_architecture.md",
+                "file": "longest_increasing_subsequence.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "834b6f56192bf0cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hexagonal_architecture.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "499df3db9ace597d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hexagonal_architecture.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "da54d12427a2ed6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev_links.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cd931adf5026c63d",
@@ -86,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asp/core/microservice_architecture.md",
+                "file": "longest_increasing_subsequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asp/core/microservice_architecture.md",
+                "file": "longest_increasing_subsequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asp/core/microservice_architecture.md"
+                "file": "longest_increasing_subsequence.md"
               }
             }
           },
@@ -156,12 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f51fab66c5b0c2b",
+  "active": "3863fc40838a5fc8",
   "lastOpenFiles": [
-    "asp/core/microservice.md",
-    "asp/core/microservice_architecture.md",
-    "common/cookies.md",
+    "hexagonal_architecture.md",
+    "configs.md",
+    "ddd.md",
+    "dev_links.md",
+    "docker.md",
     "common/redis.md",
+    "asp/core/microservice_architecture.md",
+    "asp/core/microservice.md",
+    "common/cookies.md",
     "other/mapz_patterns_notes/behaviour.md",
     "other/mapz_patterns_notes/structural.md",
     "other/mapz_patterns_notes/antipatterns.md",
@@ -186,7 +226,6 @@
     "longest_increasing_subsequence.md",
     "bloom_filter.md",
     "common/mongodb.md",
-    "dev_links.md",
     "common/authentication.md",
     "asp/core/middleware.canvas",
     "common/basic_authentication.md",
@@ -196,11 +235,7 @@
     "common/rate_limiter_design.md",
     "notes/common/JWT.md",
     "notes/common/cors.md",
-    "notes/common/cookies.md",
     "notes/asp/core/middleware.canvas",
-    "notes/common/basic_authentication.md",
-    "notes/common/authentication.md",
-    "Basic authentication.md",
     "notes/common/assets",
     "notes/common",
     "notes/asp/core",
