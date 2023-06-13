@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3863fc40838a5fc8",
+            "id": "834b6f56192bf0cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "longest_increasing_subsequence.md",
+                "file": "aws/aws_prcaticioner/aws-intro.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "779456c95646034c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech_stack/react/react.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "834b6f56192bf0cd",
+            "id": "a8fa2c82e60f310c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hexagonal_architecture.md",
+                "file": "tech_stack/react/react.md",
                 "mode": "source",
                 "source": true
               }
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.5
   },
   "right": {
     "id": "cd931adf5026c63d",
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "longest_increasing_subsequence.md",
+                "file": "tech_stack/react/react.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "longest_increasing_subsequence.md",
+                "file": "tech_stack/react/react.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "longest_increasing_subsequence.md"
+                "file": "tech_stack/react/react.md"
               }
             }
           },
@@ -191,21 +204,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3863fc40838a5fc8",
+  "active": "a8fa2c82e60f310c",
   "lastOpenFiles": [
-    "hexagonal_architecture.md",
+    "tech_stack/react/react_custom_hooks.md",
+    "tech_stack/react",
+    "tech_stack",
+    "tech_stack/react/react.md",
+    "aws/aws_prcaticioner/aws-intro.md",
     "configs.md",
-    "ddd.md",
+    "hexagonal_architecture.md",
     "dev_links.md",
+    "bloom_filter.md",
+    "cach.md",
+    "tech_stack/asp/core/dotnet_aspnet_jwt_auth.md",
+    "common/JWT.md",
+    "longest_increasing_subsequence.md",
     "docker.md",
+    "ddd.md",
     "common/redis.md",
-    "asp/core/microservice_architecture.md",
+    "tech_stack/asp/core/microservice_architecture.md",
     "asp/core/microservice.md",
     "common/cookies.md",
     "other/mapz_patterns_notes/behaviour.md",
     "other/mapz_patterns_notes/structural.md",
     "other/mapz_patterns_notes/antipatterns.md",
-    "asp/core/dotnet_aspnet_jwt_auth.md",
     "other/mapz_patterns_notes/cr/abstract_factory.png",
     "other/mapz_patterns_notes/cr",
     "other/mapz_patterns_notes/bh/visitor.png",
@@ -223,23 +245,13 @@
     "other/mapz_patterns_notes/ci_cd.md",
     "other/mapz_patterns_notes",
     "other",
-    "longest_increasing_subsequence.md",
-    "bloom_filter.md",
     "common/mongodb.md",
     "common/authentication.md",
-    "asp/core/middleware.canvas",
+    "tech_stack/asp/core/middleware.canvas",
     "common/basic_authentication.md",
-    "common/cors.md",
-    "common/JWT.md",
-    "common/jwt_logout.md",
-    "common/rate_limiter_design.md",
-    "notes/common/JWT.md",
-    "notes/common/cors.md",
     "notes/asp/core/middleware.canvas",
     "notes/common/assets",
     "notes/common",
-    "notes/asp/core",
-    "notes/asp",
-    "notes/aws/aws_solution_arch"
+    "notes/asp/core"
   ]
 }

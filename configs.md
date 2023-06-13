@@ -13,3 +13,4 @@
   "jsxBracketSameLine": false // Put the closing bracket of a JSX element on a new line
 }
 ```
+
